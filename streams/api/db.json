@@ -1,0 +1,27 @@
+{
+  "streams": [
+    {
+      "title": "scott",
+      "description": "david",
+      "id": 1
+    },
+    {
+      "title": "I created this stream",
+      "description": "Made by them",
+      "userId": "118127969861956258427",
+      "id": 2
+    },
+    {
+      "title": "test",
+      "description": "tester",
+      "userId": "118127969861956258427",
+      "id": 3
+    },
+    {
+      "title": "owen",
+      "description": "sam",
+      "userId": "118127969861956258427",
+      "id": 4
+    }
+  ]
+}
